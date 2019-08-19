@@ -92,7 +92,7 @@
     "split": "^1.0.1",
     "symbol-tree": "^3.2.2",
     "ws": "^6.0.0",
-    "yargs": "^13.2.2"
+    "yargs": "^14.0.0"
   },
   "optionalDependencies": {
     "appdmg": "^0.5.2"
